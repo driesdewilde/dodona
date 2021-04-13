@@ -1,0 +1,16 @@
+#schrijf de titel
+print("Inhoud van een balk")
+print("-------------------")
+print("")
+
+#vraag de nodige gegevens
+hoogte = int(input("Geef de hoogte van de balk: "))
+breedte = int(input("Geef de breedte van de balk: "))
+diepte = int(input("Geef de diepte van de balk: "))
+
+#verwerking
+inhoud = hoogte * breedte * diepte
+
+#uitvoer
+print("")
+print("De inhoud van de balk is " + str(inhoud) + " cm3")
