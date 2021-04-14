@@ -7,10 +7,12 @@
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": ["sequentie"],
+  "labels": [
+    "sequentie"
+  ],
   "access": "public",
   "internals": {
-    "token": "GGkA5uzIRhuexjQu9QJAf-gmkdWRmbFRyBfdD3wFT_wtBCAzvbFJ8pchPpudhp8d",
+    "token": "MFvajGUwW4yb_ie5f6Zc_cMbz8YjPDn7dTeG9An77DtdF2HHP_AAXQCD5s55tTWJ",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
