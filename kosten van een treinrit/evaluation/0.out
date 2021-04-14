@@ -1,9 +1,8 @@
-
-De prijs voor 4 passagiers is 27.96 euro.
-
-De prijs voor 2 passagiers is 17.98 euro.
+De prijs voor 3 passagiers is 10.5 euro
+De prijs voor 2 passagiers is 17.98 euro
 ----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: 2
-output block size: 2
+output block size: 1 
+
