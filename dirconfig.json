@@ -1,6 +1,4 @@
 {
-    "evaluation": {
-        "handler": "python"
-    },
-    "programming_language": "python"
+    "access": "private",
+    "labels": ["example", "voorbeeld"]
 }
