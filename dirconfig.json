@@ -1,9 +1,6 @@
 {
     "access": "private",
-    "submission": {
-        "handler": "default",
-        "supported_programming_languages": "python-3"
-    },
+
     "evaluation": {
         "handler": "python",
         "time_limit": 15,
