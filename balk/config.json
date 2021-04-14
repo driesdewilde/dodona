@@ -1,19 +1,11 @@
 {
- "type": "exercise",
-  "programming_language": "python",
-  "access": "public",
   "description": {
     "names": {
-      "nl": "Voorbeeld oefening",
-      "en": "Example exercise"
+      "nl": "Oefening balk"
     }
   },
   "evaluation": {
-    "handler": "python",
-    "image": "dodona/dodona-python",
-    "time_limit": 10,
-    "memory_limit": 10000000,
-    "network_enabled": true
+    "pythia_judge": "doctest"
   },
-  "labels": ["voorbeeld", "eenvoudige oefening"],
+  "labels": []
 }
