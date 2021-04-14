@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "Bereken het gemiddelde van 3 gehele getallen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": ["sequentie"],
+  "access": "public",
+}
