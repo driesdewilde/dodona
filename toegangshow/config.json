@@ -7,10 +7,12 @@
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": ["genest if-statement"],
+  "labels": [
+    "genest if-statement"
+  ],
   "access": "public",
   "internals": {
-    "token": "GGkA5uzIRhuexjQu9QJAf-gmkdWRmbFRyBfdD3wFT_wtBCAzvbFJ8pchPpudhp8d",
+    "token": "K3Kw6FkWYaBDcgWYzieW2DdGIBY5eU3iqKepekagdqxedIEP52DTEjeqaS7-JUM5",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
